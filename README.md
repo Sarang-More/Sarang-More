@@ -177,13 +177,10 @@ I'm actively looking for **Full-Time Opportunities** in:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:1E90FF&height=120&section=footer"/>
 
 ```
-                    They mass apply, I mass reject their doubts.
-           While they're sending 100 applications, I'm building 100 solutions.
-                         
-                    🚀 "Talk is cheap. Show me the code." - Linus Torvalds
+                    Curiosity ages better than credentials.
 ```
 
-**If my code doesn't work, neither does your excuse to not hire me.**
+**The gap between knowing and doing is where growth lives.**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker)](https://github.com/Sarang-More)
 
