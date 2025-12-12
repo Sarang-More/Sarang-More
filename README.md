@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:1E90FF&height=200&section=header&text=Sarang%20More&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Data%20Analyst%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E10600&center=true&vCenter=true&random=false&width=600&lines=MS+Computer+Science+%40+IU+Indianapolis;Building+AI+Solutions+for+Real-World+Problems;Passionate+About+Data+%26+Machine+Learning;Open+to+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E10600&center=true&vCenter=true&random=false&width=600&lines=MS+Computer+Science+%40+IU+Indianapolis;Building+AI+Solutions+for+Real-World+Problems;Turning+Data+Into+Decisions;Open+to+Opportunities!)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
@@ -29,11 +29,10 @@ class SarangMore:
         self.location = "Indianapolis, IN, USA"
         
         self.interests = ["AI/ML", "Data Analytics", "Full Stack Development"]
-        self.currently_learning = ["LLMs", "MLOps", "Cloud Architecture"]
-        self.fun_fact = "I built an F1 Dashboard analyzing 70+ years of racing data! 🏎️"
+        self.superpower = "Turning coffee into code and data into decisions ☕→💻"
     
     def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing together!")
+        print("Thanks for stopping by! Let's build something legendary together!")
 
 me = SarangMore()
 me.say_hi()
@@ -46,9 +45,8 @@ me.say_hi()
 - 🎓 **MS in Computer Science** @ IU Indianapolis (2024-2026)
 - 🔬 Currently working on **Multimodal AI** & **LLM Safety**
 - 📊 Passionate about turning **data into insights**
-- 🌱 Learning **MLOps** and **Cloud Deployment**
 - 📫 Reach me at **sarmore@iu.edu**
-- 📄 [View my Resume](https://linkedin.com/in/sarangmore11)
+- 📄 [**View My Resume**](./Sarang_More_Resume.pdf)
 - ⚡ Fun fact: I've analyzed **every F1 race since 1950!**
 
 ---
@@ -99,44 +97,11 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎬 **[Multimodal AI Generator](https://github.com/Sarang-More)** | Image & video generation from text using FLUX + SVD | `Python` `PyTorch` `Gradio` |
+| 🎬 **[Multimodal AI Generator](https://github.com/Sarang-More/FLUX-MultiKeyframe-SVD)** | Text-to-image & video generation using FLUX + SVD | `Python` `PyTorch` `Gradio` |
 | 🛡️ **[LLM Jailbreak Prevention](https://github.com/Sarang-More)** | Post-gen filtering agent for LLM safety | `Python` `Knowledge Graphs` `Causal AI` |
 | 🏎️ **[F1 Championship Dashboard](https://github.com/Sarang-More/f1-championship-dashboard)** | Interactive visualization of 70+ years of F1 data | `JavaScript` `D3.js` `CSS` |
-| 🎵 **[Spotify Trend Analysis](https://github.com/Sarang-More)** | Time series forecasting for music streaming | `Python` `SARIMAX` `Pandas` |
-| 🌿 **[Medical Herbs Classifier](https://github.com/Sarang-More)** | CNN-based medicinal plant identification | `TensorFlow` `Inception V3` `Transfer Learning` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sarang-More&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarang-More&theme=radical&hide_border=true&background=0D1117&ring=E10600&fire=E10600&currStreakLabel=E10600" alt="GitHub Streak"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarang-More&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E10600&text_color=FFFFFF" alt="Top Languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Sarang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarang-More&bg_color=0D1117&color=E10600&line=E10600&point=FFFFFF&area=true&hide_border=true)](https://github.com/Sarang-More)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sarang-More&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Sarang-More)
+| 🎵 **[Spotify Trend Analysis](https://github.com/Sarang-More/Spotify-Top-Songs-Popularity-and-Trend-Analysis)** | Time series forecasting for music streaming | `Python` `SARIMAX` `Pandas` |
+| 🌿 **[Medical Herbs Classifier](https://github.com/Sarang-More/Medical-Herbs-Identification)** | CNN-based medicinal plant identification | `TensorFlow` `Inception V3` `Transfer Learning` |
 
 </div>
 
@@ -169,7 +134,7 @@ me.say_hi()
 
 ---
 
-## 📝 Latest Publication
+## 📝 Publication
 
 <div align="center">
 
@@ -211,7 +176,15 @@ I'm actively looking for **Full-Time Opportunities** in:
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:1E90FF&height=120&section=footer"/>
 
-**⭐ From [Sarang-More](https://github.com/Sarang-More) | Made with ❤️**
+```
+                    They mass apply, I mass reject their doubts.
+           While they're sending 100 applications, I'm building 100 solutions.
+                         
+                    🚀 "Talk is cheap. Show me the code." - Linus Torvalds
+```
+
+**If my code doesn't work, neither does your excuse to not hire me.**
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker)](https://github.com/Sarang-More)
 
 </div>
-
