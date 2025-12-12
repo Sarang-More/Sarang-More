@@ -9,9 +9,8 @@
 <!-- Social Badges -->
 <p>
 <a href="https://linkedin.com/in/sarangmore11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sarmore@iu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:sarangmore301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Sarang-More"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=Sarang-More&style=for-the-badge&color=E10600" alt="Profile Views"/>
 </p>
 
 </div>
@@ -45,7 +44,7 @@ me.say_hi()
 - 🎓 **MS in Computer Science** @ IU Indianapolis (2024-2026)
 - 🔬 Currently working on **Multimodal AI** & **LLM Safety**
 - 📊 Passionate about turning **data into insights**
-- 📫 Reach me at **sarmore@iu.edu**
+- 📫 Reach me at **sarangmore301@gmail.com**
 - 📄 [**View My Resume**](./Sarang_More_Resume.pdf)
 - ⚡ Fun fact: I've analyzed **every F1 race since 1950!**
 
@@ -163,7 +162,7 @@ I'm actively looking for **Full-Time Opportunities** in:
 <a href="https://linkedin.com/in/sarangmore11">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:sarmore@iu.edu">
+<a href="mailto:sarangmore301@gmail.com">
   <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -176,6 +175,14 @@ I'm actively looking for **Full-Time Opportunities** in:
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:1E90FF&height=120&section=footer"/>
 
+```
+                    They mass apply, I mass reject their doubts.
+           While they're sending 100 applications, I'm building 100 solutions.
+                         
+                    🚀 "Talk is cheap. Show me the code." - Linus Torvalds
+```
+
+**If my code doesn't work, neither does your excuse to not hire me.**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker)](https://github.com/Sarang-More)
 
