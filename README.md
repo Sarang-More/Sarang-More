@@ -176,9 +176,6 @@ I'm actively looking for **Full-Time Opportunities** in:
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:1E90FF&height=120&section=footer"/>
 
-```
-                    Curiosity ages better than credentials.
-```
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker)](https://github.com/Sarang-More)
 
