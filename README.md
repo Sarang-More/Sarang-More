@@ -180,8 +180,6 @@ I'm actively looking for **Full-Time Opportunities** in:
                     Curiosity ages better than credentials.
 ```
 
-**The gap between knowing and doing is where growth lives.**
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker)](https://github.com/Sarang-More)
 
 </div>
