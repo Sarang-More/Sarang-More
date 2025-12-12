@@ -175,12 +175,6 @@ I'm actively looking for **Full-Time Opportunities** in:
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:1E90FF&height=120&section=footer"/>
 
-```
-                    They mass apply, I mass reject their doubts.
-           While they're sending 100 applications, I'm building 100 solutions.
-                         
-                    🚀 "Talk is cheap. Show me the code." - Linus Torvalds
-```
 
 **If my code doesn't work, neither does your excuse to not hire me.**
 
