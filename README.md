@@ -1,7 +1,17 @@
 <div align="center">
 
-<!-- Venom Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sarang%20More&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Data%20Analyst%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<!-- Header with Gradient Background -->
+<div style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 40px 20px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 8px 32px rgba(225, 6, 0, 0.3);">
+
+<h1 style="color: #ffffff; font-size: 48px; margin: 0; font-weight: bold; text-shadow: 0 0 20px rgba(225, 6, 0, 0.5);">
+  Sarang More
+</h1>
+
+<p style="color: #e0e0e0; font-size: 18px; margin: 10px 0 0 0; letter-spacing: 1px;">
+  AI/ML Engineer | Data Analyst | Full Stack Developer
+</p>
+
+</div>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E10600&center=true&vCenter=true&random=false&width=600&lines=MS+Computer+Science+%40+IU+Indianapolis;Building+AI+Solutions+for+Real-World+Problems;Turning+Data+Into+Decisions;Open+to+Opportunities!)](https://git.io/typing-svg)
@@ -37,7 +47,12 @@ me = SarangMore()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="right">
+
+<!-- Cool animated coding visualization -->
+<img alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/main/matrix.svg">
+
+</div>
 
 ### 🎯 Quick Facts
 
